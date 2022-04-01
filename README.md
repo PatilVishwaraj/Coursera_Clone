@@ -33,7 +33,7 @@
 ### Installation 
 * Clone the repository
     ``` 
-    https://github.com/DharmeshRS/Coursera_Clone.git
+    https://github.com/PatilVishwaraj/Coursera_Clone
     ```
 
 ### Website Flow
